@@ -1,0 +1,9 @@
+"id","animal","animal_count"
+3,"elephants",58
+2,"zebra",72
+1,"buffalo",2
+4,"bobcats",4
+5,"monkeys",31
+6,"penguins",1
+7,"polar bears",57
+8,"toucan birds",41
